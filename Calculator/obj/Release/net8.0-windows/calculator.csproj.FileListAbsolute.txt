@@ -1,0 +1,16 @@
+E:\Code\scientific\calculator\bin\Release\net8.0-windows\calculator.exe
+E:\Code\scientific\calculator\bin\Release\net8.0-windows\calculator.deps.json
+E:\Code\scientific\calculator\bin\Release\net8.0-windows\calculator.runtimeconfig.json
+E:\Code\scientific\calculator\bin\Release\net8.0-windows\calculator.dll
+E:\Code\scientific\calculator\bin\Release\net8.0-windows\calculator.pdb
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.Form1.resources
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.csproj.GenerateResource.cache
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.AssemblyInfoInputs.cache
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.AssemblyInfo.cs
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.dll
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\refint\calculator.dll
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.pdb
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\calculator.genruntimeconfig.cache
+E:\Code\scientific\calculator\obj\Release\net8.0-windows\ref\calculator.dll
