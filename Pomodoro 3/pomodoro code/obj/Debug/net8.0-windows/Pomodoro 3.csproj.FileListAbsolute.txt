@@ -1,4 +1,0 @@
-e:\Pomodoro 3\pomodoro code\obj\Debug\net8.0-windows\Pomodoro 3.GeneratedMSBuildEditorConfig.editorconfig
-e:\Pomodoro 3\pomodoro code\obj\Debug\net8.0-windows\Pomodoro 3.AssemblyInfoInputs.cache
-e:\Pomodoro 3\pomodoro code\obj\Debug\net8.0-windows\Pomodoro 3.AssemblyInfo.cs
-e:\Pomodoro 3\pomodoro code\obj\Debug\net8.0-windows\Pomodoro 3.csproj.CoreCompileInputs.cache
