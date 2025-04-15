@@ -1,5 +1,0 @@
-E:\Code\scientific\calculator\publish\calculator.exe
-E:\Code\scientific\calculator\publish\calculator.dll
-E:\Code\scientific\calculator\publish\calculator.deps.json
-E:\Code\scientific\calculator\publish\calculator.runtimeconfig.json
-E:\Code\scientific\calculator\publish\calculator.pdb
